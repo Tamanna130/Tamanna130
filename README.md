@@ -1,7 +1,12 @@
-# 👋 Hello, I'm Tamanna Shermin!
+## 👋 Hello Good People!
 
-I'm a Computer Science and Engineering student at United International University. I love coding and problem-solving, and I'm always eager to learn new tech stacks. Check out my repositories to see my work in C/C++, JAVA, React/React Native, and many more!!
+I'm Tamanna Shermin, a Computer Science and Engineering student at United International University. I love coding and problem-solving, and I'm always eager to learn new tech stacks. Check out [my repositories](https://github.com/Tamanna130?tab=repositories) to see my work in C/C++, JAVA
 
+## My Interests
+
+- Frontend and Backend Development
+- Problem-Solving
+- Machine Learning Models
 
 
 # 🌐 Background
