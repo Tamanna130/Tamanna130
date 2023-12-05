@@ -4,14 +4,17 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 
 ## My Interests
 
-- Frontend and Backend Development
-- Problem-Solving
-- Machine Learning Models
+- Frontend and Backend Development 💻
+- Problem-Solving 🤔
+- Machine Learning Models 🧠
 
 
-# 🌐 Background
+### :hammer_and_wrench: Languages and Tools :
 
-I have a background in [Your Field/Area of Expertise], with a focus on [Specific Technologies or Interests]. Over the years, I've gained experience in [Programming Languages/Frameworks], and I'm always excited to learn and explore new things.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 # 🚀 Projects
 
