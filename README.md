@@ -1,6 +1,6 @@
 ## 👋 Hello Good People!
 
-I'm Tamanna Shermin, a Computer Science and Engineering student at United International University. I love coding and problem-solving, and I'm always eager to learn new tech stacks. Check out [my repositories](https://github.com/Tamanna130?tab=repositories) to see my work in C/C++, JAVA
+I'm Tamanna Shermin, a Computer Science and Engineering student at United International University. I love coding and problem-solving, and I'm always eager to learn new tech stacks. Check out [my repositories](https://github.com/Tamanna130?tab=repositories) to see my work in C/C++, JAVA, React/React Native, and many more.
 
 ## My Interests
 
@@ -9,7 +9,7 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 - Machine Learning Models 🧠
 
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
