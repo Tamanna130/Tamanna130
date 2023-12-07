@@ -182,8 +182,7 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 </p>
 
 <br>
-## My Stats!
+## <b>My Stats!</b><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamanna130&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna130&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
