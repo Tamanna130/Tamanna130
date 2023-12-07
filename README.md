@@ -181,46 +181,7 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 <a href="https://www.leetcode.com/tamannashermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamannashermin" height="30" width="40" /></a>
 </p>
 
-# 🚀 Projects
 
-Here are some of my noteworthy projects:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna130)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna130&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-1. **Project One**
-   - Description: Brief description of Project One.
-   - Achievements: Any notable achievements or awards related to this project.
-
-2. **Project Two**
-   - Description: Brief description of Project Two.
-   - Achievements: Any notable achievements or awards related to this project.
-
-3. **Project Three**
-   - Description: Brief description of Project Three.
-   - Achievements: Any notable achievements or awards related to this project.
-
-# 💻 Skills
-
-I specialize in:
-
-
-- Programming Languages: [List of Programming Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools]
-
-# 📧 Contact
-
-Feel free to reach out to me via:
-
-- Email: [Your Email]
-- Twitter: [@YourTwitterHandle]
-- LinkedIn: [Your LinkedIn Profile]
-
-# 🏆 Badges/Stats
-
-[![GitHub Stats](your-github-stats-badge-link)](your-github-profile-link)
-[![Contributions](your-contributions-badge-link)](your-github-profile-link)
-
-# 🎨 Visuals
-
-![Project One](project-one-image-url)
-![Project Two](project-two-image-url)
-![Project Three](project-three-image-url)
