@@ -2,14 +2,14 @@
 
 I'm Tamanna Shermin, a Computer Science and Engineering student at United International University. I love coding and problem-solving, and I'm always eager to learn new tech stacks. Check out [my repositories](https://github.com/Tamanna130?tab=repositories) to see my work in C/C++, JAVA, React/React Native, and many more.
 
-## My Interests
+## My Interests:
 
 - Frontend and Backend Development 💻
 - Problem-Solving 🤔
 - Machine Learning Models 🧠
 
 
-## 🛠️ Languages and Tools :
+## Languages and Tools :
 
 
 <table align="center">
@@ -173,7 +173,7 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 
 <br> 
 
-## 🔗 Connect With Me
+## Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/tamanna shermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna shermin" height="30" width="40" /></a>
 <a href="https://kaggle.com/tamannashermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tamannashermin" height="30" width="40" /></a>
@@ -181,7 +181,9 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 <a href="https://www.leetcode.com/tamannashermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamannashermin" height="30" width="40" /></a>
 </p>
 
+<br>
+## My Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna130)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamanna130&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna130&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
