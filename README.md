@@ -173,6 +173,14 @@ I'm Tamanna Shermin, a Computer Science and Engineering student at United Intern
 
 <br> 
 
+## 🔗 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/tamanna shermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna shermin" height="30" width="40" /></a>
+<a href="https://kaggle.com/tamannashermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tamannashermin" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tamanna20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tamanna20" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tamannashermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamannashermin" height="30" width="40" /></a>
+</p>
+
 # 🚀 Projects
 
 Here are some of my noteworthy projects:
